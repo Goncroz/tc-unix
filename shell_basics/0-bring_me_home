@@ -1,8 +1,4 @@
-julien@ubuntu:/tmp$ pwd
-/tmp
-julien@ubuntu:/tmp$ echo $HOME
-/home/julien
-julien@ubuntu:/tmp$ source ./0-bring_me_home
-julien@ubuntu:~$ pwd
-/home/julien
-julien@ubuntu:~$ 
+#!/bin/bash
+cd ~[D[D[D[D[D[C[C[D[D[D[A[C[C[C[C[C[C[C[C[C[C[C
+pwd tmp[D[D[D/ tmp
+cd ~
